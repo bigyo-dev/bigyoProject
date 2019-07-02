@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const title = '압롭라ㅗㅂ래';
+const title = 'aaaaaaaaa';
 
 ReactDOM.render(
   <div>{title}</div>,
